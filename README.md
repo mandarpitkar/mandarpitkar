@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pitkarmandar@gmail.com**
 
-- 📄 Know about my experiences [I am a fresher in the field of Information Technology as Front End Developer](I am a fresher in the field of Information Technology as Front End Developer)
+- 📄 Know about my experiences I am a fresher in the field of Software Developer as a Front End Developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
